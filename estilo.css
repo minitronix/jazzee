@@ -1,29 +1,40 @@
 body {
     background: rgb(181, 181, 196);
+    margin: 0;
 }
 header {
     color: rgb(58, 58, 58);
     font:normal 20pt Arial;
 }
 section {
-    font:normal 20pt Arial;
+    font:normal 19.8pt Arial;
     width: auto;
     height: auto;
+}
+div#divmenu {
+    background: rgb(84, 101, 196);
+    width: 1325px;
+    height: 50px;
+    list-style: none;;
+    font: normal 15pt times;
 }
 div#boasvindas {
     background: rgb(84, 101, 196);
     width: 820px;
     height: 70px;
     margin: auto;
+    border-radius: 10px;
 }
 div#descricaosite {
     background: rgb(90, 98, 202);
     width: 730px;
     height: 320px;
     margin: auto;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.671);
 }
 div#party2 {
-    background: rgb(94, 96, 204);
+    background: rgba(94, 96, 204, 0.658);
     width: 300px;
     height: 168px;
     margin-left: 30px;
@@ -40,6 +51,7 @@ button#saibamais {
     margin-left: 305px;
     width: 120px;
     height: 50px;
+    border-radius: 20px;
 }
 footer {
     color: gray;
