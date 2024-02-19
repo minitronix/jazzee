@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+ <head>
+ <link rel="stylesheet" href="style.css">
+ <title>Lar Doce Lar</title>
+ <body>
+  <h1>
+              Lar Doce Lar
+  </h1>
+  <h2>
+   <strong>Doces e Bolos.</strong>
+  </h2>
+  <h3>
+   <strong>Lar Doce Lar</strong>
+  </h3>
+  <h4><em>
+   O lugar perfeito para recordar as nuanças de sabores e amores, que só encontramos no nosso lar.
+  </em></h4>
+  <p><a href="https://www.facebook.com/profile.php?id=100069542395520">
+   <button>Lar Doce Lar</button>
+  </a></p>
+  <img src="/storage/emulated/0/Pictures/facebook/1707450043707.jpg">
+ </body>
+</html>
